@@ -669,6 +669,12 @@ a:focus, a:hover {
 .about {
   background: #fff;
 }
+
+.about img {
+  background: #fff;
+  height: 350px;
+}
+
 .about h2 {
   font-size: 40px;
   font-weight: bold;
@@ -1228,7 +1234,8 @@ a:focus, a:hover {
   margin-right: 10px;
 }
 .post-item .post-thumb img {
-  height: auto;
+  height: 200px;
+  width: 100%;
 }
 .post-item .post-title {
   margin-top: 20px;
